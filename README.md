@@ -1,6 +1,7 @@
 # 🧬 SurakshaRx — Pharmacogenomic Risk Prediction System
 
 > RIFT 2026 Hackathon | Pharmacogenomics / Explainable AI Track | **v9.3**
+> Collaborative Project done in group of 3
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://pharmaguard-mkmkwjxgblr9fx4mwx9jdc.streamlit.app/)
 [![Demo Video](https://img.shields.io/badge/Demo-Video-blue)](https://drive.google.com/file/d/18WjSPht0pKze7wOy1dfxRyiE7ehmId7h/view?usp=sharing)
